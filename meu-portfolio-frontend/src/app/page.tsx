@@ -4,7 +4,7 @@ export default function Home() {
       <main className="mx-auto max-w-5xl">
         {/* HERO */}
         <section className="flex flex-col gap-6 sm:gap-8">
-          <p className= "text-sm text-neutral-600 dark:text-neutral-400">Olá</p>
+          <p className= "text-sm text-neutral-600 dark:text-neutral-400">Olá, sou</p>
             <h1 className="text-4xl sm:text-5xl font-bold tracking-tight text-neutral-900 dark:text-neutral-100">
             Ricardo Alves
           </h1>
